@@ -6,7 +6,10 @@ it's not being published on npm, any issues will be closed, etc.
 
 However, I think, it's a much more streamlined way of doing things.
 
+Docs: [http://debundle-docs.surge.sh/docs](http://debundle-docs.surge.sh/docs)
+
 ## Getting Started
+
 ```sh
 $ # Install Dependencies
 $ npm install
